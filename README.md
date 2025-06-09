@@ -73,3 +73,4 @@ src/
 
 - `npm start`: Runs the app in development mode.
 - `npm build`: Builds the app for production.
+# energy-calculator
